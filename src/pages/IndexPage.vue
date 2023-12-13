@@ -16,9 +16,6 @@
     <q-linear-progress style="width: 420px" stripe rounded size="50px" :value="progress_bar" color="warning" class="q-mt-sm" />
     <q-card class="flex flex-center q-gutter-md"> {{ progress_bar }}</q-card>
     </q-card>
-
-
-
   </q-page>
 </template>
 

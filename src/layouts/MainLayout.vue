@@ -10,12 +10,10 @@
           aria-label="Menu"
           @click="toggleLeftDrawer"
         />
-
         <q-toolbar-title>
-          Quasar App
+          EzhBattle
         </q-toolbar-title>
-
-        <div>Quasar v{{ $q.version }}</div>
+        <div>v 2.0</div>
       </q-toolbar>
     </q-header>
 
